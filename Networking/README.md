@@ -1,5 +1,5 @@
-###  المصطلحات العلمية لعلوم الحاسوب
-### Scientific Terminology in Computer Science
+#####  المصطلحات العلمية لعلوم الحاسوب
+##### Scientific Terminology in Computer Science
 
 
 ## هذا التعريب خاص بمجال الشبكات في الحاسوب
