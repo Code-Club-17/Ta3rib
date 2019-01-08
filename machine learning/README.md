@@ -39,4 +39,17 @@ TensorFlow |
 Dimensions |
 precision |
 optimizer |
+activation function |
+active learning |
+AdaGrad |
+automation bias |
+backpropagation |
+bag of words |
+baseline |
+batch normalization |
+batch size |
+Bayesian neural network |
+bias (math) |
+boosting |
+
 
