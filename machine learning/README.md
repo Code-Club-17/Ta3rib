@@ -18,9 +18,9 @@ Example | "المثال او هو الصف  الواحد يحتوي المتغي
 Instance | example نفس المعنى لمصطلح    
 Ensemble | هو دمح مجموعة من النماذج لتنبؤ بنتيجة نموذج واحد 
 Keras | هي مكتبة في البايثون خاصة بتطبيقات الشبكة العصبية
-Models |
-Regression |
-classification |
+Models | النموذج
+Regression | الانحدار او الانحسار وهو تقنية او طريقة تستعمل لتوقع او التنبؤ بقيم معينة وهو ياتي ضمن صنف تعلم الالة تحت الاشراف [للمزيد من المعلومات](https://github.com/Code-Club-17/Ta3rib/tree/master/machine%20learning)
+classification | التصنيف وهو تقنية او طريقة تستعمل لتصنيف الاشياء المراد العمل عليها وهو ياتي ضمن صنف تعلم الالة تحت الاشراف [للمزيد من المعلومات](https://github.com/Code-Club-17/Ta3rib/tree/master/machine%20learning)
 Deep model | 
 Training |
 Inference |
